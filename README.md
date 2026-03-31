@@ -1,8 +1,11 @@
 # Digital Literacy Project – Student Digital Ambassador Portfolio
 
 **Name:** Suhani Singh Parihar 
+
 **Registration Number:** 25BAI10265 
+
 **Branch & Year:** B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning), First Year  
+
 **Course:** CSE0001 – Digital Literacy  
 **Institution:** VIT Bhopal University  
 
