@@ -6,13 +6,15 @@
 
 **Branch & Year:** B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning), First Year  
 
-**Course:** CSE0001 – Digital Literacy  
+**Course:** CSE0001 - Digital Literacy
+
 **Institution:** VIT Bhopal University  
 
 
 ## Project Overview
 
 This repository contains my submission for the Digital Literacy project. As a Student Digital Ambassador, I have created resources to help peers understand digital literacy, build professional online profiles, collaborate effectively, communicate professionally, and stay safe from cyber threats. The project is divided into five modules, each documented with screenshots, written reflections, and deliverables.
+
 
 
 
@@ -27,6 +29,7 @@ I designed a one‑page infographic using **Canva** covering:
 - Email etiquette basics
 
 📁 **Folder:** `task-1-presentation/`
+
 
 
 
@@ -45,14 +48,16 @@ Screenshots of each profile are stored in the `task-2-portfolio/` folder.
 
 
 
+
 ### Task 3 – Coding & Collaboration Platforms
-- **Coding practice:** Completed a beginner challenge on **HackerRank**.
+- **Coding practice:** Completed 2 beginner challenges on **HackerRank**.
 - **Google Workspace:** Created a **Digital Literacy Awareness Quiz** with 5 questions (multiple choice & short answer).  
   🔗 **Quiz Link:** https://forms.gle/V916keRJLcU5wqUH7
 
 📁 **Folder:** `task-3-platforms/`
 
----
+
+
 
 ### Task 4 – Professional Communication & Social Media Etiquette
 - **Emails:** Drafted two professional emails (extension request & internship inquiry).
@@ -62,11 +67,13 @@ Screenshots of each profile are stored in the `task-2-portfolio/` folder.
 
 
 
+
 ### Task 5 – Cybercrime Awareness
 - **Case study:** Wrote a 200‑word case study on **phishing** (realistic scenario).
 - **Prevention checklist:** 8 actionable tips, including UPI safety and reporting channels (cybercrime.gov.in & helpline 1930).
 
 📁 **Folder:** `task-5-cybercrime/`
+
 
 
 
