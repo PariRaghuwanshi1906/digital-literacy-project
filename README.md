@@ -1,4 +1,4 @@
-# Digital Literacy Project – Student Digital Ambassador Portfolio
+# Digital Literacy Project - Student Digital Ambassador Portfolio
 
 **Name:** Suhani Singh Parihar 
 
